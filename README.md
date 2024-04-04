@@ -12,7 +12,7 @@ Será utilizado conjunto de dados público de trajetos feitos por taxis de Nova 
 
 A **imagem abaixo** mostra uma representação gráfica da cidade de Nova York, com cores simbolizando seus 5 bairros, que veremos mais adiante presentes na malha desses trajetos.
 
-<img src="https://lovingnewyork.com.br/wp-content/uploads/2018/11/como-chegar-em-nova-york-bairros-1024x972.jpg" width="400"/>
+<img src="https://lovingnewyork.com.br/wp-content/uploads/2018/11/como-chegar-em-nova-york-bairros-1024x972.jpg" width="600"/>
 
 ### Ferramentas:
 NumPy, Pandas, Matplotlib, Seaborn
