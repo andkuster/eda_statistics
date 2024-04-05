@@ -1,14 +1,18 @@
 ## Projeto | Análise Exploratória de Dados (EDA) - Estatística
 
-### Aluno:
-André R. Kuster | nº: 1116029
+### Autor:
+André R. Kuster
 
 ### Objetivo:
 
-O objetivo deste projeto é aplicar os conhecimentos adquiridos ao longo da disciplina de **Estatística 1** em um contexto prático, utilizando um conjunto de dados, a ﬁm de praticar conceitos de estatística descritiva aprendidos em sala de aula, entender sobre as distribuições dos dados e extrair possíveis insights por meio de testes de hipóteses.
+Este projeto visa aplicar os conceitos aprendidos na disciplina **Estatística 1** em um cenário prático, usando um conjunto de dados real. Nosso objetivo é praticar os conceitos de estatística descritiva, entender a distribuição dos dados e obter insights por meio de testes de hipóteses.
 
 ### Base de Dados:
-Será utilizado conjunto de dados público de trajetos feitos por taxis de Nova York, termo popularmente conhecido como "corridas de taxi". A base contém informações sobre o trajeto (ponto de partida e de chegada), horário de partida e de chegada, quantidade de passageiros e também sobre as tarifas cobradas. Este projeto visa identificar as estatísticas descritivas dessas variáveis, entender as possíveis distribuições, e explorar algum teste de hipótese que possa evidenciar alguma relevância estatística ou responder a alguma pergunta de negócio.
+Será utilizado conjunto de dados público de trajetos feitos por taxis de Nova York, termo popularmente conhecido como "corridas de taxi". A base contém informações sobre o trajeto (ponto de partida e de chegada), horário de partida e de chegada, quantidade de passageiros e também sobre as tarifas cobradas. 
+
+### Motivação:
+
+Este projeto visa identificar as estatísticas descritivas, entender as possíveis distribuições, interpretar as correlações entre as variáveis quantitativas, e explorar um teste de hipótese que possa avaliar se há variação na duração dos trajetos em função de outra variável a ser escolhida.
 
 A **imagem abaixo** mostra uma representação gráfica da cidade de Nova York, com cores simbolizando seus 5 bairros, que veremos mais adiante presentes na malha desses trajetos.
 
@@ -16,9 +20,6 @@ A **imagem abaixo** mostra uma representação gráfica da cidade de Nova York, 
 
 ### Ferramentas:
 NumPy, Pandas, Matplotlib, Seaborn
-
-### Link do Notebook:
-https://github.com/andkuster/eda_statistics/blob/main/projeto_estat_andre_kuster.ipynb
 
 ### Referências:
 - https://pandas.pydata.org
