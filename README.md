@@ -1,7 +1,7 @@
 ## Projeto | Análise Exploratória de Dados (EDA) - Estatística
 
-### Autor:
-André R. Kuster
+### Aluno:
+André R. Kuster | nº: 1116029
 
 ### Objetivo:
 
