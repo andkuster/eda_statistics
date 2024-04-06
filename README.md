@@ -21,6 +21,9 @@ A **imagem abaixo** mostra uma representação gráfica da cidade de Nova York, 
 ### Ferramentas:
 NumPy, Pandas, Matplotlib, Seaborn
 
+### Link do Notebook:
+https://github.com/andkuster/eda_statistics/blob/main/projeto_estat_andre_kuster.ipynb
+
 ### Referências:
 - https://pandas.pydata.org
 - https://seaborn.pydata.org/generated/seaborn.load_dataset.html
